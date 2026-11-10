@@ -1,0 +1,37 @@
+[
+  {
+    "id": "001",
+    "composer": "Johann Sebastian Bach",
+    "title": "Präludium in C-Dur, BWV 846",
+    "year": 1722,
+    "audio": "audio/001.wav"
+  },
+  {
+    "id": "002",
+    "composer": "Wolfgang Amadeus Mozart",
+    "title": "Zwölf Variationen über «Ah, vous dirai-je, Maman», KV 265",
+    "year": 1781,
+    "audio": "audio/002.wav"
+  },
+  {
+    "id": "003",
+    "composer": "Ludwig van Beethoven",
+    "title": "Sinfonie Nr. 9, IV. Satz («Ode an die Freude»)",
+    "year": 1824,
+    "audio": "audio/003.wav"
+  },
+  {
+    "id": "004",
+    "composer": "Ludwig van Beethoven",
+    "title": "Für Elise, WoO 59",
+    "year": 1810,
+    "audio": "audio/004.wav"
+  },
+  {
+    "id": "005",
+    "composer": "Edvard Grieg",
+    "title": "Peer Gynt, Suite Nr. 1: Morgenstimmung",
+    "year": 1875,
+    "audio": "audio/005.wav"
+  }
+]
