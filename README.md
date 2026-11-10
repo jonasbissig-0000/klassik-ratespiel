@@ -1,20 +1,45 @@
-# CHRONOS – Klassik-Hitster (5-Karten-Prototyp)
+# CHRONOS – Klassik / Clásica (Version 2)
 
-## Testen
-Öffne `index.html` im Browser. Wähle eine Karte oder verwende `index.html?karte=003`.
+## Die neue Version auf GitHub veröffentlichen
 
-## Auf GitHub Pages veröffentlichen
-1. Erstelle auf github.com ein **öffentliches** Repository namens `klassik-hitster`.
-2. Lade **den Inhalt** dieses Ordners hoch (nicht den übergeordneten Ordner). Wichtig: `index.html`, `karten.html`, `audio/`, `karten.json` und `.nojekyll`.
-3. Unter Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save.
-4. Öffne `https://DEIN-NAME.github.io/klassik-hitster/?karte=001`.
-5. Öffne `/karten.html`, prüfe die Basis-URL und drucke die QR-Karten.
+1. Entpacke das ZIP.
+2. Öffne dein GitHub-Repository `klassik-ratespiel` und lade **die Dateien aus dem ZIP** hoch (nicht den übergeordneten Ordner). Bei gleichnamigen Dateien die vorhandenen Versionen ersetzen. Falls GitHub beim Upload einen Konflikt meldet, die vorhandenen Dateien einzeln über das Stiftsymbol aktualisieren oder die neuen Dateien im Repository hochladen.
+3. Die Dateien `index.html`, `karten.html` und `karten.json` liegen direkt im Hauptverzeichnis; `audio/001.wav` usw. bleiben im Unterordner `audio`.
+4. Nach dem Commit läuft die veröffentlichte GitHub-Pages-Webseite wie bisher.
 
-## Musik austauschen
-Ersetze `audio/001.wav` usw. durch **eigene rechtmässig nutzbare** Audiodateien mit denselben Dateinamen. Alternativ `karten.json` und die eingebettete Kartenliste in `index.html` anpassen (in dieser einfachen Version ist die Kartenliste für zuverlässiges lokales Öffnen eingebettet). Für grössere Sammlungen empfiehlt sich ein automatischer Generator aus CSV.
+## Aufbau
 
-## Lizenz- und Datennotiz
-Die beigefügten WAV-Dateien sind neu synthetisierte, vereinfachte Demonstrationen gemeinfreier Melodien; sie verwenden keine fremden Aufnahmen. Das Spiel hat keinen Login, keine Analysefunktionen und keinen eigenen Server. Die QR-Codes werden über den externen Dienst api.qrserver.com erzeugt; die Karten-URLs werden dafür an den Dienst übertragen. Die auf GitHub Pages hochgeladenen Audiodateien sind öffentlich abrufbar.
+- `index.html`: Zweisprachiger Player mit optionaler ausführlicher Lösung.
+- `karten.html`: QR-Vorder- und Rückseiten für Testdruck. Für den Duplexdruck unbedingt zunächst eine Testseite drucken; die korrekte Wendekante hängt vom Drucker ab.
+- `CHRONOS_Mastertabelle.xlsx`: Pflege der Kartendaten.
+- `karten.json`: Daten für Website und Karten.
+- `excel_zu_json.py`: Exportiert aus der Excel-Datei wieder `karten.json`, ohne Zusatzpakete.
+- `audio/`: fünf synthetisierte Demo-Ausschnitte aus Version 1.
 
-## Einschränkungen
-Die Lösung ist im Browser technisch auslesbar; das Spiel setzt Fairplay voraus. Automatische Wiedergabe wird auf vielen Smartphones blockiert; daher muss auf Play getippt werden. Die Musikbeispiele sind bewusst nur eine technische Demo, keine künstlerisch überzeugenden Aufnahmen.
+## Neue Stücke und Auflösungen
+
+1. `CHRONOS_Mastertabelle.xlsx` öffnen, Einträge bearbeiten oder neue Zeilen hinzufügen.
+2. In Spalte P kannst du die **vollständige Auflösung** als freien Text eingeben. Jede Zeile erscheint später ohne Feldbezeichnungen. Ein Zeilenumbruch innerhalb einer Excel-Zelle funktioniert mit Alt+Enter (Windows) bzw. Ctrl+Option+Return (Mac, je nach Excel-Version).
+3. Wenn Spalte P leer bleibt, erzeugt die Webseite die Auflösung automatisch aus Komponist, Werktitel, Satz, Jahr und den **Namen** in Spalten Q, R, S. Ohne «Dirigent:» usw. Leere Namensfelder erscheinen nicht.
+4. Im Terminal im entpackten Ordner `python3 excel_zu_json.py CHRONOS_Mastertabelle.xlsx` ausführen.
+5. Die neu erstellte `karten.json` sowie neue Audio-Dateien auf GitHub hochladen.
+
+## Beispiel für Spalte P (Auflösung)
+
+Giuseppe Verdi
+Messa da Requiem
+Introitus: Requiem aeternam
+Herbert von Karajan
+Wiener Philharmoniker
+
+**Wichtig:** Trage die Namen nur dann ein, wenn sie zu der konkreten Aufnahme gehören. Die fünf synthetischen Demodateien sind keine Einspielungen eines Orchesters mit Dirigent oder Solisten; ihre Namensspalten bleiben daher leer.
+
+## Audio und Rechte
+
+Die fünf Audiodateien sind synthetische Funktionsbeispiele. Für das eigentliche Spiel rechtmässig nutzbare Einspielungen beschaffen und Lizenz bzw. Quelle in der Tabelle dokumentieren. Über GitHub Pages veröffentlichte Dateien sind grundsätzlich öffentlich zugänglich.
+
+## Hinweise
+
+Der QR-Code verweist auf die Karten-ID, nicht auf die Musikdatei. Beim Austausch einer Aufnahme bleibt die gedruckte Karte gültig. Die Karte `?karte=003` findet weiterhin Eintrag `003`. `karten.html` verwendet für die QR-Bilder den externen Dienst api.qrserver.com. Die QR-URLs werden an diesen Dienst übermittelt.
+
+Die fünf Werkdaten dienen der technischen Demo; vor dem endgültigen Druck Datierungen und Werktitel redaktionell prüfen.

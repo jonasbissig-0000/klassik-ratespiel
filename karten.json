@@ -2,36 +2,71 @@
   {
     "id": "001",
     "composer": "Johann Sebastian Bach",
-    "title": "Präludium in C-Dur, BWV 846",
+    "title": "Das Wohltemperierte Klavier I, BWV 846",
+    "movement": "Präludium Nr. 1 in C-Dur",
     "year": 1722,
-    "audio": "audio/001.wav"
+    "dateType": "Zusammenstellung des ersten Teils",
+    "audio": "audio/001.wav",
+    "vocalBonus": "",
+    "solution": "",
+    "conductor": "",
+    "ensemble": "",
+    "soloists": ""
   },
   {
     "id": "002",
     "composer": "Wolfgang Amadeus Mozart",
-    "title": "Zwölf Variationen über «Ah, vous dirai-je, Maman», KV 265",
+    "title": "Douze variations sur «Ah, vous dirai-je, maman», KV 265",
+    "movement": "",
     "year": 1781,
-    "audio": "audio/002.wav"
+    "dateType": "Datierung ungefähr; unsicher",
+    "audio": "audio/002.wav",
+    "vocalBonus": "",
+    "solution": "",
+    "conductor": "",
+    "ensemble": "",
+    "soloists": ""
   },
   {
     "id": "003",
     "composer": "Ludwig van Beethoven",
-    "title": "Sinfonie Nr. 9, IV. Satz («Ode an die Freude»)",
+    "title": "Sinfonie Nr. 9 d-Moll, op. 125",
+    "movement": "IV. Satz: Finale (Freude, schöner Götterfunken)",
     "year": 1824,
-    "audio": "audio/003.wav"
+    "dateType": "Uraufführung",
+    "audio": "audio/003.wav",
+    "vocalBonus": "",
+    "solution": "",
+    "conductor": "",
+    "ensemble": "",
+    "soloists": ""
   },
   {
     "id": "004",
     "composer": "Ludwig van Beethoven",
-    "title": "Für Elise, WoO 59",
+    "title": "Bagatelle a-Moll, WoO 59 («Für Elise»)",
+    "movement": "",
     "year": 1810,
-    "audio": "audio/004.wav"
+    "dateType": "Komposition",
+    "audio": "audio/004.wav",
+    "vocalBonus": "",
+    "solution": "",
+    "conductor": "",
+    "ensemble": "",
+    "soloists": ""
   },
   {
     "id": "005",
     "composer": "Edvard Grieg",
-    "title": "Peer Gynt, Suite Nr. 1: Morgenstimmung",
+    "title": "Peer Gynt, op. 23",
+    "movement": "Morgenstemning",
     "year": 1875,
-    "audio": "audio/005.wav"
+    "dateType": "Schauspielmusik",
+    "audio": "audio/005.wav",
+    "vocalBonus": "",
+    "solution": "",
+    "conductor": "",
+    "ensemble": "",
+    "soloists": ""
   }
 ]
