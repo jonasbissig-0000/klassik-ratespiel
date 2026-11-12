@@ -8,7 +8,7 @@
     "conductor": "Jordi Savall",
     "ensemble": "Schola Cantorum Basiliensis",
     "soloists": "Montserrat Figueras",
-    "audio": ""
+    "audio": "audio/001.mp3"
   },
   {
     "id": "002",
@@ -19,7 +19,7 @@
     "conductor": "John Eliot Gardiner (1985)",
     "ensemble": "English Baroque Soloists",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/002.mp3"
   },
   {
     "id": "003",
@@ -30,7 +30,7 @@
     "conductor": "John Eliot Gardiner (1989)",
     "ensemble": "Monteverdi Choir; English Baroque Soloists",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/003.mp3"
   },
   {
     "id": "004",
@@ -41,7 +41,7 @@
     "conductor": "Elena Sartori (Glossa 2016)",
     "ensemble": "Allabastrina; La Pifarescha",
     "soloists": "Elena Biscuola",
-    "audio": ""
+    "audio": "audio/004.mp3"
   },
   {
     "id": "005",
@@ -52,7 +52,7 @@
     "conductor": "Philippe Herreweghe",
     "ensemble": "La Chapelle Royale",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/005.mp3"
   },
   {
     "id": "006",
@@ -63,7 +63,7 @@
     "conductor": "René Jacobs",
     "ensemble": "Concerto Vocale",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/006.mp3"
   },
   {
     "id": "007",
@@ -74,7 +74,7 @@
     "conductor": "Leonardo García Alarcón",
     "ensemble": "Cappella Mediterranea",
     "soloists": "Mariana Flores",
-    "audio": ""
+    "audio": "audio/007.mp3"
   },
   {
     "id": "008",
@@ -85,7 +85,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Núria Rial",
-    "audio": ""
+    "audio": "audio/008.mp3"
   },
   {
     "id": "009",
@@ -96,7 +96,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "David Irvin",
-    "audio": ""
+    "audio": "audio/009.mp3"
   },
   {
     "id": "010",
@@ -107,7 +107,7 @@
     "conductor": "Philippe Herreweghe",
     "ensemble": "La Chapelle Royale",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/010.mp3"
   },
   {
     "id": "011",
@@ -118,7 +118,7 @@
     "conductor": "Christopher Hogwood",
     "ensemble": "Academy of Ancient Music",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/011.mp3"
   },
   {
     "id": "012",
@@ -129,7 +129,7 @@
     "conductor": "Reinoud van Mechelen (2023)",
     "ensemble": "A nocte temporis; Chœur de Chambre de Namur",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/012.mp3"
   },
   {
     "id": "013",
@@ -140,7 +140,7 @@
     "conductor": "Paul Dombrecht",
     "ensemble": "Il Fondamento",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/013.mp3"
   },
   {
     "id": "014",
@@ -151,7 +151,7 @@
     "conductor": "Jordi Savall",
     "ensemble": "Hespèrion XX / XXI",
     "soloists": "Jordi Savall (Gambe)",
-    "audio": ""
+    "audio": "audio/014.mp3"
   },
   {
     "id": "015",
@@ -162,7 +162,7 @@
     "conductor": "René Jacobs",
     "ensemble": "Freiburger Barockorchester",
     "soloists": "Miah Persson",
-    "audio": ""
+    "audio": "audio/015.mp3"
   },
   {
     "id": "016",
@@ -173,7 +173,7 @@
     "conductor": "Trevor Pinnock",
     "ensemble": "The English Concert",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/016.mp3"
   },
   {
     "id": "017",
@@ -184,7 +184,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Liuwe Tamminga (Orgel)",
-    "audio": ""
+    "audio": "audio/017.mp3"
   },
   {
     "id": "018",
@@ -195,7 +195,7 @@
     "conductor": "Harry Christophers",
     "ensemble": "The Sixteen",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/018.mp3"
   },
   {
     "id": "019",
@@ -206,7 +206,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "András Schiff (Klavier)",
-    "audio": ""
+    "audio": "audio/019.mp3"
   },
   {
     "id": "020",
@@ -217,7 +217,7 @@
     "conductor": "Harry Bicket",
     "ensemble": "Orchestra of the Age of Enlightenment",
     "soloists": "Renée Fleming",
-    "audio": ""
+    "audio": "audio/020.mp3"
   },
   {
     "id": "021",
@@ -228,7 +228,7 @@
     "conductor": "Andrea Marcon (2000)",
     "ensemble": "Venice Baroque Orchestra",
     "soloists": "Giuliano Carmignola (Violine)",
-    "audio": ""
+    "audio": "audio/021.mp3"
   },
   {
     "id": "022",
@@ -239,7 +239,7 @@
     "conductor": "Andrea Marcon (2000)",
     "ensemble": "Venice Baroque Orchestra",
     "soloists": "Giuliano Carmignola (Violine)",
-    "audio": ""
+    "audio": "audio/022.mp3"
   },
   {
     "id": "023",
@@ -250,7 +250,7 @@
     "conductor": "Philippe Herreweghe",
     "ensemble": "Collegium Vocale Gent; Orchestre des Champs-Élysées",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/023.mp3"
   },
   {
     "id": "024",
@@ -261,7 +261,7 @@
     "conductor": "Reinhard Goebel",
     "ensemble": "Musica Antiqua Köln",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/024.mp3"
   },
   {
     "id": "025",
@@ -272,7 +272,7 @@
     "conductor": "René Jacobs",
     "ensemble": "Freiburger Barockorchester",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/025.mp3"
   },
   {
     "id": "026",
@@ -283,7 +283,7 @@
     "conductor": "John Eliot Gardiner",
     "ensemble": "Monteverdi Choir; English Baroque Soloists",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/026.mp3"
   },
   {
     "id": "027",
@@ -294,7 +294,7 @@
     "conductor": "William Christie",
     "ensemble": "Les Arts Florissants",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/027.mp3"
   },
   {
     "id": "028",
@@ -305,7 +305,7 @@
     "conductor": "Luigi Pistore",
     "ensemble": "Orchestra Filarmonica Alpe Adria; Coro femminile Bodeča Neža",
     "soloists": "Marianna Prizzon; Elena Boscarol",
-    "audio": ""
+    "audio": "audio/028.mp3"
   },
   {
     "id": "029",
@@ -316,7 +316,7 @@
     "conductor": "Reinhard Goebel",
     "ensemble": "Musica Antiqua Köln",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/029.mp3"
   },
   {
     "id": "030",
@@ -327,7 +327,7 @@
     "conductor": "Thomas Hengelbrock",
     "ensemble": "Balthasar-Neumann-Chor und -Ensemble",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/030.mp3"
   },
   {
     "id": "031",
@@ -338,7 +338,7 @@
     "conductor": "John Eliot Gardiner",
     "ensemble": "Monteverdi Choir; English Baroque Soloists",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/031.mp3"
   },
   {
     "id": "032",
@@ -349,7 +349,7 @@
     "conductor": "Marc Minkowski",
     "ensemble": "Les Musiciens du Louvre",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/032.mp3"
   },
   {
     "id": "033",
@@ -360,7 +360,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Glenn Gould (Klavier)",
-    "audio": ""
+    "audio": "audio/033.mp3"
   },
   {
     "id": "034",
@@ -371,7 +371,7 @@
     "conductor": "John Eliot Gardiner",
     "ensemble": "Monteverdi Choir; English Baroque Soloists",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/034.mp3"
   },
   {
     "id": "035",
@@ -382,7 +382,7 @@
     "conductor": "Hans-Christoph Rademann (2014)",
     "ensemble": "RIAS Kammerchor; Akademie für Alte Musik Berlin",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/035.mp3"
   },
   {
     "id": "036",
@@ -393,7 +393,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/036.mp3"
   },
   {
     "id": "037",
@@ -404,7 +404,7 @@
     "conductor": "John Eliot Gardiner",
     "ensemble": "English Baroque Soloists",
     "soloists": "Derek Lee Ragin (Orfeo)",
-    "audio": ""
+    "audio": "audio/037.mp3"
   },
   {
     "id": "038",
@@ -415,7 +415,7 @@
     "conductor": "Fabio Biondi (Europa Galante 1999)",
     "ensemble": "Europa Galante",
     "soloists": "Fabio Biondi",
-    "audio": ""
+    "audio": "audio/038.mp3"
   },
   {
     "id": "039",
@@ -426,7 +426,7 @@
     "conductor": "Ádám Fischer",
     "ensemble": "Österreichisch-Ungarische Haydn-Philharmonie",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/039.mp3"
   },
   {
     "id": "040",
@@ -437,7 +437,7 @@
     "conductor": "Andrea Marcon",
     "ensemble": "La Cetra Barockorchester Basel",
     "soloists": "Vokalsolisten",
-    "audio": ""
+    "audio": "audio/040.mp3"
   },
   {
     "id": "041",
@@ -448,7 +448,7 @@
     "conductor": "Daniel Hege",
     "ensemble": "Encore Chamber Orchestra",
     "soloists": "Rachel Barton Pine (Violine)",
-    "audio": ""
+    "audio": "audio/041.mp3"
   },
   {
     "id": "042",
@@ -459,7 +459,7 @@
     "conductor": "Christophe Rousset (2013)",
     "ensemble": "Les Talens Lyriques",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/042.mp3"
   },
   {
     "id": "043",
@@ -470,7 +470,7 @@
     "conductor": "Murray Perahia",
     "ensemble": "English Chamber Orchestra",
     "soloists": "Murray Perahia (Klavier)",
-    "audio": ""
+    "audio": "audio/043.mp3"
   },
   {
     "id": "044",
@@ -481,7 +481,7 @@
     "conductor": "Karl Böhm",
     "ensemble": "Deutsche Oper Berlin",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/044.mp3"
   },
   {
     "id": "045",
@@ -492,7 +492,7 @@
     "conductor": "Carlo Maria Giulini",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/045.mp3"
   },
   {
     "id": "046",
@@ -503,7 +503,7 @@
     "conductor": "René Jacobs",
     "ensemble": "Concerto Köln",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/046.mp3"
   },
   {
     "id": "047",
@@ -514,7 +514,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/047.mp3"
   },
   {
     "id": "048",
@@ -525,7 +525,7 @@
     "conductor": "Otto Klemperer",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Lucia Popp (Königin der Nacht)",
-    "audio": ""
+    "audio": "audio/048.mp3"
   },
   {
     "id": "049",
@@ -536,7 +536,7 @@
     "conductor": "Karl Böhm (1964)",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "Franz Crass (Sarastro)",
-    "audio": ""
+    "audio": "audio/049.mp3"
   },
   {
     "id": "050",
@@ -547,7 +547,7 @@
     "conductor": "Nikolaus Harnoncourt",
     "ensemble": "Concentus Musicus Wien",
     "soloists": "Chor und Solisten",
-    "audio": ""
+    "audio": "audio/050.mp3"
   },
   {
     "id": "051",
@@ -558,7 +558,7 @@
     "conductor": "Peter Phillips",
     "ensemble": "The Tallis Scholars",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/051.mp3"
   },
   {
     "id": "052",
@@ -569,7 +569,7 @@
     "conductor": "Quatuor Mosaïques",
     "ensemble": "Streichquartett",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/052.mp3"
   },
   {
     "id": "053",
@@ -580,7 +580,7 @@
     "conductor": "Nikolaus Harnoncourt",
     "ensemble": "Concentus Musicus Wien; Arnold Schoenberg Chor",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/053.mp3"
   },
   {
     "id": "054",
@@ -591,7 +591,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/054.mp3"
   },
   {
     "id": "055",
@@ -602,7 +602,7 @@
     "conductor": "Carlos Kleiber",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/055.mp3"
   },
   {
     "id": "056",
@@ -613,7 +613,7 @@
     "conductor": "Nikolaus Harnoncourt",
     "ensemble": "Chamber Orchestra of Europe",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/056.mp3"
   },
   {
     "id": "057",
@@ -624,7 +624,7 @@
     "conductor": "Wilhelm Kempff / Ferdinand Leitner",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "Wilhelm Kempff (Klavier)",
-    "audio": ""
+    "audio": "audio/057.mp3"
   },
   {
     "id": "058",
@@ -635,7 +635,7 @@
     "conductor": "Carlos Kleiber",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/058.mp3"
   },
   {
     "id": "059",
@@ -646,7 +646,7 @@
     "conductor": "Dietrich Fischer-Dieskau / Gerald Moore",
     "ensemble": "Klavierlied",
     "soloists": "Dietrich Fischer-Dieskau (Bariton)",
-    "audio": ""
+    "audio": "audio/059.mp3"
   },
   {
     "id": "060",
@@ -657,7 +657,7 @@
     "conductor": "Dietrich Fischer-Dieskau / Gerald Moore",
     "ensemble": "Klavierlied",
     "soloists": "Dietrich Fischer-Dieskau (Bariton)",
-    "audio": ""
+    "audio": "audio/060.mp3"
   },
   {
     "id": "061",
@@ -668,7 +668,7 @@
     "conductor": "Claudio Abbado",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Hermann Prey (Figaro)",
-    "audio": ""
+    "audio": "audio/061.mp3"
   },
   {
     "id": "062",
@@ -679,7 +679,7 @@
     "conductor": "Carlos Kleiber",
     "ensemble": "Bayerisches Staatsorchester",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/062.mp3"
   },
   {
     "id": "063",
@@ -690,7 +690,7 @@
     "conductor": "Carlos Kleiber",
     "ensemble": "Bayerisches Staatsorchester",
     "soloists": "Sprechrollen / Chor",
-    "audio": ""
+    "audio": "audio/063.mp3"
   },
   {
     "id": "064",
@@ -701,7 +701,7 @@
     "conductor": "Günter Wand",
     "ensemble": "NDR Sinfonieorchester",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/064.mp3"
   },
   {
     "id": "065",
@@ -712,7 +712,7 @@
     "conductor": "John Eliot Gardiner",
     "ensemble": "Orchestre Révolutionnaire et Romantique; Monteverdi Choir",
     "soloists": "Vokalsolisten",
-    "audio": ""
+    "audio": "audio/065.mp3"
   },
   {
     "id": "066",
@@ -723,7 +723,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "Wiener Philharmoniker; Wiener Singverein",
     "soloists": "Solistenquartett",
-    "audio": ""
+    "audio": "audio/066.mp3"
   },
   {
     "id": "067",
@@ -734,7 +734,7 @@
     "conductor": "Ian Bostridge / Leif Ove Andsnes",
     "ensemble": "Klavierlied",
     "soloists": "Ian Bostridge (Tenor)",
-    "audio": ""
+    "audio": "audio/067.mp3"
   },
   {
     "id": "068",
@@ -745,7 +745,7 @@
     "conductor": "Hans Hotter / Gerald Moore",
     "ensemble": "Klavierlied",
     "soloists": "Hans Hotter (Bassbariton)",
-    "audio": ""
+    "audio": "audio/068.mp3"
   },
   {
     "id": "069",
@@ -756,7 +756,7 @@
     "conductor": "Arturo Toscanini",
     "ensemble": "NBC Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/069.mp3"
   },
   {
     "id": "070",
@@ -767,7 +767,7 @@
     "conductor": "Charles Munch",
     "ensemble": "Boston Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/070.mp3"
   },
   {
     "id": "071",
@@ -778,7 +778,7 @@
     "conductor": "Carlo Felice Cillario (1972)",
     "ensemble": "London Philharmonic Orchestra; Ambrosian Opera Chorus",
     "soloists": "Montserrat Caballé (Norma)",
-    "audio": ""
+    "audio": "audio/071.mp3"
   },
   {
     "id": "072",
@@ -789,7 +789,7 @@
     "conductor": "Antonino Votto (1957)",
     "ensemble": "Orchestra e Coro del Teatro alla Scala",
     "soloists": "Maria Callas (Amina)",
-    "audio": ""
+    "audio": "audio/072.mp3"
   },
   {
     "id": "073",
@@ -800,7 +800,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Arthur Rubinstein (Klavier)",
-    "audio": ""
+    "audio": "audio/073.mp3"
   },
   {
     "id": "074",
@@ -811,7 +811,7 @@
     "conductor": "Richard Bonynge",
     "ensemble": "English Chamber Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/074.mp3"
   },
   {
     "id": "075",
@@ -822,7 +822,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Krystian Zimerman (Klavier)",
-    "audio": ""
+    "audio": "audio/075.mp3"
   },
   {
     "id": "076",
@@ -833,7 +833,7 @@
     "conductor": "Holly Mathieson (2019)",
     "ensemble": "Royal Liverpool Philharmonic Orchestra",
     "soloists": "Isata Kanneh-Mason (Klavier)",
-    "audio": ""
+    "audio": "audio/076.mp3"
   },
   {
     "id": "077",
@@ -844,7 +844,7 @@
     "conductor": "Richard Bonynge",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Joan Sutherland (Elvira)",
-    "audio": ""
+    "audio": "audio/077.mp3"
   },
   {
     "id": "078",
@@ -855,7 +855,7 @@
     "conductor": "Tullio Serafin (1953)",
     "ensemble": "Orchestra del Maggio Musicale Fiorentino",
     "soloists": "Maria Callas (Lucia)",
-    "audio": ""
+    "audio": "audio/078.mp3"
   },
   {
     "id": "079",
@@ -866,7 +866,7 @@
     "conductor": "Fritz Wunderlich / Hubert Giesen",
     "ensemble": "Klavierlied",
     "soloists": "Fritz Wunderlich (Tenor)",
-    "audio": ""
+    "audio": "audio/079.mp3"
   },
   {
     "id": "080",
@@ -877,7 +877,7 @@
     "conductor": "Elisabeth Schwarzkopf / Geoffrey Parsons",
     "ensemble": "Klavierlied",
     "soloists": "Elisabeth Schwarzkopf (Sopran)",
-    "audio": ""
+    "audio": "audio/080.mp3"
   },
   {
     "id": "081",
@@ -888,7 +888,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Lars Vogt (Klavier)",
-    "audio": ""
+    "audio": "audio/081.mp3"
   },
   {
     "id": "082",
@@ -899,7 +899,7 @@
     "conductor": "John Eliot Gardiner",
     "ensemble": "Orchestre Révolutionnaire et Romantique",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/082.mp3"
   },
   {
     "id": "083",
@@ -910,7 +910,7 @@
     "conductor": "Christopher Hogwood",
     "ensemble": "Danish National Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/083.mp3"
   },
   {
     "id": "084",
@@ -921,7 +921,7 @@
     "conductor": "Riccardo Muti",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Ambrosian Opera Chorus",
-    "audio": ""
+    "audio": "audio/084.mp3"
   },
   {
     "id": "085",
@@ -932,7 +932,7 @@
     "conductor": "Riccardo Muti",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/085.mp3"
   },
   {
     "id": "086",
@@ -943,7 +943,7 @@
     "conductor": "Riccardo Muti",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/086.mp3"
   },
   {
     "id": "087",
@@ -954,7 +954,7 @@
     "conductor": "Otto Klemperer",
     "ensemble": "New Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/087.mp3"
   },
   {
     "id": "088",
@@ -965,7 +965,7 @@
     "conductor": "Hilary Hahn / Hugh Wolff",
     "ensemble": "Oslo Philharmonic",
     "soloists": "Hilary Hahn (Violine)",
-    "audio": ""
+    "audio": "audio/088.mp3"
   },
   {
     "id": "089",
@@ -976,7 +976,7 @@
     "conductor": "Lamberto Gardelli",
     "ensemble": "Orchester der Gesamtaufnahme",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/089.mp3"
   },
   {
     "id": "090",
@@ -987,7 +987,7 @@
     "conductor": "Martha Argerich / Nikolaus Harnoncourt",
     "ensemble": "Chamber Orchestra of Europe",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/090.mp3"
   },
   {
     "id": "091",
@@ -998,7 +998,7 @@
     "conductor": "Wolfgang Sawallisch",
     "ensemble": "Bayreuther Festspielorchester",
     "soloists": "Chor der Bayreuther Festspiele",
-    "audio": ""
+    "audio": "audio/091.mp3"
   },
   {
     "id": "092",
@@ -1009,7 +1009,7 @@
     "conductor": "Rafael Frühbeck de Burgos",
     "ensemble": "New Philharmonia Orchestra",
     "soloists": "Dietrich Fischer-Dieskau (Elias)",
-    "audio": ""
+    "audio": "audio/092.mp3"
   },
   {
     "id": "093",
@@ -1020,7 +1020,7 @@
     "conductor": "Laurence Equilbey (2021)",
     "ensemble": "Insula orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/093.mp3"
   },
   {
     "id": "094",
@@ -1031,7 +1031,7 @@
     "conductor": "Riccardo Muti",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Opernchor",
-    "audio": ""
+    "audio": "audio/094.mp3"
   },
   {
     "id": "095",
@@ -1042,7 +1042,7 @@
     "conductor": "Rudolf Kempe",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/095.mp3"
   },
   {
     "id": "096",
@@ -1053,7 +1053,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Arthur Rubinstein (Klavier)",
-    "audio": ""
+    "audio": "audio/096.mp3"
   },
   {
     "id": "097",
@@ -1064,7 +1064,7 @@
     "conductor": "Mark Rohde",
     "ensemble": "Mecklenburgische Staatskapelle Schwerin",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/097.mp3"
   },
   {
     "id": "098",
@@ -1075,7 +1075,7 @@
     "conductor": "Tullio Serafin",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/098.mp3"
   },
   {
     "id": "099",
@@ -1086,7 +1086,7 @@
     "conductor": "Richard Bonynge",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Luciano Pavarotti (Duca)",
-    "audio": ""
+    "audio": "audio/099.mp3"
   },
   {
     "id": "100",
@@ -1097,7 +1097,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "Franco Corelli (Manrico; Salzburger Konzertaufnahme)",
-    "audio": ""
+    "audio": "audio/100.mp3"
   },
   {
     "id": "101",
@@ -1108,7 +1108,7 @@
     "conductor": "Carlo Maria Giulini (live, 1955)",
     "ensemble": "Orchestra e Coro del Teatro alla Scala di Milano",
     "soloists": "Maria Callas (Violetta); Giuseppe Di Stefano (Alfredo); Ettore Bastianini (Germont)",
-    "audio": ""
+    "audio": "audio/101.mp3"
   },
   {
     "id": "102",
@@ -1119,7 +1119,7 @@
     "conductor": "Tullio Serafin (Studio, 1959)",
     "ensemble": "Orchestra e Coro del Teatro dell’Opera di Roma",
     "soloists": "Victoria de los Ángeles (Violetta); Carlo del Monte (Alfredo); Mario Sereni (Germont)",
-    "audio": ""
+    "audio": "audio/102.mp3"
   },
   {
     "id": "103",
@@ -1130,7 +1130,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/103.mp3"
   },
   {
     "id": "104",
@@ -1141,7 +1141,7 @@
     "conductor": "Bernard Haitink",
     "ensemble": "Concertgebouw Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/104.mp3"
   },
   {
     "id": "105",
@@ -1152,7 +1152,7 @@
     "conductor": "Antonio Pappano (2013)",
     "ensemble": "Orchestra and Chorus of the Royal Opera House",
     "soloists": "Lianna Haroutounian (Hélène)",
-    "audio": ""
+    "audio": "audio/105.mp3"
   },
   {
     "id": "106",
@@ -1163,7 +1163,7 @@
     "conductor": "Martha Argerich / Claudio Abbado",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/106.mp3"
   },
   {
     "id": "107",
@@ -1174,7 +1174,7 @@
     "conductor": "Claudio Abbado",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "Piero Cappuccilli (Simone)",
-    "audio": ""
+    "audio": "audio/107.mp3"
   },
   {
     "id": "108",
@@ -1185,7 +1185,7 @@
     "conductor": "Riccardo Muti",
     "ensemble": "New Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/108.mp3"
   },
   {
     "id": "109",
@@ -1196,7 +1196,7 @@
     "conductor": "Francesco Molinari-Pradelli",
     "ensemble": "Orchestra della Scala",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/109.mp3"
   },
   {
     "id": "110",
@@ -1207,7 +1207,7 @@
     "conductor": "Michel Plasson",
     "ensemble": "Orchestre National du Capitole de Toulouse",
     "soloists": "Roberto Alagna; Bryn Terfel",
-    "audio": ""
+    "audio": "audio/110.mp3"
   },
   {
     "id": "111",
@@ -1218,7 +1218,7 @@
     "conductor": "Christa Ludwig / Geoffrey Parsons",
     "ensemble": "Klavierlied",
     "soloists": "Christa Ludwig (Mezzosopran)",
-    "audio": ""
+    "audio": "audio/111.mp3"
   },
   {
     "id": "112",
@@ -1229,7 +1229,7 @@
     "conductor": "Wilhelm Furtwängler",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/112.mp3"
   },
   {
     "id": "113",
@@ -1240,7 +1240,7 @@
     "conductor": "John Rutter",
     "ensemble": "Cambridge Singers",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/113.mp3"
   },
   {
     "id": "114",
@@ -1251,7 +1251,7 @@
     "conductor": "Mariss Jansons",
     "ensemble": "Oslo Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/114.mp3"
   },
   {
     "id": "115",
@@ -1262,7 +1262,7 @@
     "conductor": "Carlo Maria Giulini",
     "ensemble": "Royal Opera House Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/115.mp3"
   },
   {
     "id": "116",
@@ -1273,7 +1273,7 @@
     "conductor": "Willi Boskovsky",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/116.mp3"
   },
   {
     "id": "117",
@@ -1284,7 +1284,7 @@
     "conductor": "John Eliot Gardiner",
     "ensemble": "Orchestre Révolutionnaire et Romantique; Monteverdi Choir",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/117.mp3"
   },
   {
     "id": "118",
@@ -1295,7 +1295,7 @@
     "conductor": "Anne Sofie von Otter / Bengt Forsberg",
     "ensemble": "Klavierlied",
     "soloists": "Anne Sofie von Otter (Mezzosopran)",
-    "audio": ""
+    "audio": "audio/118.mp3"
   },
   {
     "id": "119",
@@ -1306,7 +1306,7 @@
     "conductor": "Arthur Rubinstein / André Previn",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Arthur Rubinstein (Klavier)",
-    "audio": ""
+    "audio": "audio/119.mp3"
   },
   {
     "id": "120",
@@ -1317,7 +1317,7 @@
     "conductor": "Charles Dutoit",
     "ensemble": "Orchestre de la Suisse Romande",
     "soloists": "Jean-Yves Thibaudet (Klavier)",
-    "audio": ""
+    "audio": "audio/120.mp3"
   },
   {
     "id": "121",
@@ -1328,7 +1328,7 @@
     "conductor": "Stephen Cleobury",
     "ensemble": "Choir of King's College Cambridge",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/121.mp3"
   },
   {
     "id": "122",
@@ -1339,7 +1339,7 @@
     "conductor": "Georg Solti (1965)",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "Frauenensemble des Ring-Zyklus",
-    "audio": ""
+    "audio": "audio/122.mp3"
   },
   {
     "id": "123",
@@ -1350,7 +1350,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/123.mp3"
   },
   {
     "id": "124",
@@ -1361,7 +1361,7 @@
     "conductor": "Riccardo Muti",
     "ensemble": "New Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/124.mp3"
   },
   {
     "id": "125",
@@ -1372,7 +1372,7 @@
     "conductor": "Mariss Jansons",
     "ensemble": "Oslo Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/125.mp3"
   },
   {
     "id": "126",
@@ -1383,7 +1383,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Berliner Philharmoniker; Chor",
     "soloists": "Solistenquartett",
-    "audio": ""
+    "audio": "audio/126.mp3"
   },
   {
     "id": "127",
@@ -1394,7 +1394,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Berliner Philharmoniker; Chor",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/127.mp3"
   },
   {
     "id": "128",
@@ -1405,7 +1405,7 @@
     "conductor": "José Miguel Pérez-Sierra (2019)",
     "ensemble": "Orquesta de la Comunidad de Madrid; Coro del Teatro de la Zarzuela",
     "soloists": "Cristina Faus (Paloma); Borja Quiza (Lamparilla)",
-    "audio": ""
+    "audio": "audio/128.mp3"
   },
   {
     "id": "129",
@@ -1416,7 +1416,7 @@
     "conductor": "Carlos Kleiber",
     "ensemble": "Bayerisches Staatsorchester",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/129.mp3"
   },
   {
     "id": "130",
@@ -1427,7 +1427,7 @@
     "conductor": "Carlos Kleiber",
     "ensemble": "Bayerisches Staatsorchester",
     "soloists": "Lucia Popp (Adele)",
-    "audio": ""
+    "audio": "audio/130.mp3"
   },
   {
     "id": "131",
@@ -1438,7 +1438,7 @@
     "conductor": "Rafael Kubelík",
     "ensemble": "Boston Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/131.mp3"
   },
   {
     "id": "132",
@@ -1449,7 +1449,7 @@
     "conductor": "Charles Dutoit",
     "ensemble": "Orchestre symphonique de Montréal",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/132.mp3"
   },
   {
     "id": "133",
@@ -1460,7 +1460,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Sviatoslav Richter (Klavier)",
-    "audio": ""
+    "audio": "audio/133.mp3"
   },
   {
     "id": "134",
@@ -1471,7 +1471,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "Agnes Baltsa (Carmen)",
-    "audio": ""
+    "audio": "audio/134.mp3"
   },
   {
     "id": "135",
@@ -1482,7 +1482,7 @@
     "conductor": "Georges Prêtre",
     "ensemble": "Orchestre du Théâtre National de l'Opéra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/135.mp3"
   },
   {
     "id": "136",
@@ -1493,7 +1493,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/136.mp3"
   },
   {
     "id": "137",
@@ -1504,7 +1504,7 @@
     "conductor": "Martha Argerich / Charles Dutoit",
     "ensemble": "Royal Philharmonic Orchestra",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/137.mp3"
   },
   {
     "id": "138",
@@ -1515,7 +1515,7 @@
     "conductor": "Neeme Järvi",
     "ensemble": "Gothenburg Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/138.mp3"
   },
   {
     "id": "139",
@@ -1526,7 +1526,7 @@
     "conductor": "Georg Solti (1964)",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/139.mp3"
   },
   {
     "id": "140",
@@ -1537,7 +1537,7 @@
     "conductor": "Antal Doráti (1954)",
     "ensemble": "Minneapolis Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/140.mp3"
   },
   {
     "id": "141",
@@ -1548,7 +1548,7 @@
     "conductor": "Antal Doráti (1954)",
     "ensemble": "Minneapolis Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/141.mp3"
   },
   {
     "id": "142",
@@ -1559,7 +1559,7 @@
     "conductor": "Giuseppe Sinopoli",
     "ensemble": "Czech Philharmonic",
     "soloists": "Solisten/Chor",
-    "audio": ""
+    "audio": "audio/142.mp3"
   },
   {
     "id": "143",
@@ -1570,7 +1570,7 @@
     "conductor": "Gérard Souzay / Dalton Baldwin",
     "ensemble": "Klavierlied",
     "soloists": "Gérard Souzay (Bariton)",
-    "audio": ""
+    "audio": "audio/143.mp3"
   },
   {
     "id": "144",
@@ -1581,7 +1581,7 @@
     "conductor": "Anne-Sophie Mutter / Herbert von Karajan",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "Anne-Sophie Mutter (Violine)",
-    "audio": ""
+    "audio": "audio/144.mp3"
   },
   {
     "id": "145",
@@ -1592,7 +1592,7 @@
     "conductor": "Evgeny Mravinsky",
     "ensemble": "Leningrad Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/145.mp3"
   },
   {
     "id": "146",
@@ -1603,7 +1603,7 @@
     "conductor": "Jascha Heifetz / Fritz Reiner",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "Jascha Heifetz (Violine)",
-    "audio": ""
+    "audio": "audio/146.mp3"
   },
   {
     "id": "147",
@@ -1614,7 +1614,7 @@
     "conductor": "Sir Charles Mackerras (Studio, 1994)",
     "ensemble": "Welsh National Opera Orchestra und Chorus",
     "soloists": "Richard Suart (Sir Joseph Porter); Thomas Allen (Captain Corcoran); Rebecca Evans (Josephine)",
-    "audio": ""
+    "audio": "audio/147.mp3"
   },
   {
     "id": "148",
@@ -1625,7 +1625,7 @@
     "conductor": "Valery Gergiev",
     "ensemble": "Orchester des Mariinsky-Theaters",
     "soloists": "Tenor in der Rolle Lenski – Namen noch ermitteln",
-    "audio": ""
+    "audio": "audio/148.mp3"
   },
   {
     "id": "149",
@@ -1636,7 +1636,7 @@
     "conductor": "Isidore Godfrey",
     "ensemble": "D'Oyly Carte Opera Company Orchestra",
     "soloists": "Solist des Generalmajors",
-    "audio": ""
+    "audio": "audio/149.mp3"
   },
   {
     "id": "150",
@@ -1647,7 +1647,7 @@
     "conductor": "Mikhail Pletnev / Vladimir Fedoseyev",
     "ensemble": "Russian National Orchestra (Kandidat)",
     "soloists": "Mikhail Pletnev (Klavier)",
-    "audio": ""
+    "audio": "audio/150.mp3"
   },
   {
     "id": "151",
@@ -1658,7 +1658,7 @@
     "conductor": "Gustavo Gimeno (2023)",
     "ensemble": "Orchestre Philharmonique du Luxembourg; Orfeó Català",
     "soloists": "Charles Castronovo (Tenor); Ludovic Tézier (Bariton)",
-    "audio": ""
+    "audio": "audio/151.mp3"
   },
   {
     "id": "152",
@@ -1669,7 +1669,7 @@
     "conductor": "Gustavo Gimeno (2023)",
     "ensemble": "Orchestre Philharmonique du Luxembourg; Orfeó Català",
     "soloists": "Charles Castronovo (Tenor); Ludovic Tézier (Bariton)",
-    "audio": ""
+    "audio": "audio/152.mp3"
   },
   {
     "id": "153",
@@ -1680,7 +1680,7 @@
     "conductor": "Hans Knappertsbusch",
     "ensemble": "Bayreuther Festspielorchester",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/153.mp3"
   },
   {
     "id": "154",
@@ -1691,7 +1691,7 @@
     "conductor": "Claudio Abbado",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/154.mp3"
   },
   {
     "id": "155",
@@ -1702,7 +1702,7 @@
     "conductor": "Günter Wand",
     "ensemble": "NDR Sinfonieorchester",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/155.mp3"
   },
   {
     "id": "156",
@@ -1713,7 +1713,7 @@
     "conductor": "Gianandrea Gavazzeni",
     "ensemble": "Orchester der Opernaufnahme",
     "soloists": "Gesangssolistin",
-    "audio": ""
+    "audio": "audio/156.mp3"
   },
   {
     "id": "157",
@@ -1724,7 +1724,7 @@
     "conductor": "Eugen Jochum",
     "ensemble": "Symphonieorchester des Bayerischen Rundfunks; Chor",
     "soloists": "Solisten",
-    "audio": ""
+    "audio": "audio/157.mp3"
   },
   {
     "id": "158",
@@ -1735,7 +1735,7 @@
     "conductor": "Willi Boskovsky",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "Tenor der Gesamtaufnahme",
-    "audio": ""
+    "audio": "audio/158.mp3"
   },
   {
     "id": "159",
@@ -1746,7 +1746,7 @@
     "conductor": "Carlos Kleiber",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/159.mp3"
   },
   {
     "id": "160",
@@ -1757,7 +1757,7 @@
     "conductor": "Malcolm Sargent",
     "ensemble": "D'Oyly Carte Opera Company Orchestra",
     "soloists": "Damenensemble",
-    "audio": ""
+    "audio": "audio/160.mp3"
   },
   {
     "id": "161",
@@ -1768,7 +1768,7 @@
     "conductor": "Renaud Capuçon / Khatia Buniatishvili",
     "ensemble": "Kammermusik-Duo",
     "soloists": "Renaud Capuçon (Violine); Khatia Buniatishvili (Klavier)",
-    "audio": ""
+    "audio": "audio/161.mp3"
   },
   {
     "id": "162",
@@ -1779,7 +1779,7 @@
     "conductor": "Charles Munch",
     "ensemble": "Boston Symphony Orchestra",
     "soloists": "Berj Zamkochian (Orgel)",
-    "audio": ""
+    "audio": "audio/162.mp3"
   },
   {
     "id": "163",
@@ -1790,7 +1790,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "Mirella Freni (Desdemona)",
-    "audio": ""
+    "audio": "audio/163.mp3"
   },
   {
     "id": "164",
@@ -1801,7 +1801,7 @@
     "conductor": "Leopold Stokowski (Studio, 1966)",
     "ensemble": "New Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/164.mp3"
   },
   {
     "id": "165",
@@ -1812,7 +1812,7 @@
     "conductor": "Kirill Kondrashin",
     "ensemble": "Concertgebouw Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/165.mp3"
   },
   {
     "id": "166",
@@ -1823,7 +1823,7 @@
     "conductor": "Kirill Kondrashin",
     "ensemble": "Concertgebouw Orchestra",
     "soloists": "Konzertmeister (Violine)",
-    "audio": ""
+    "audio": "audio/166.mp3"
   },
   {
     "id": "167",
@@ -1834,7 +1834,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "Concertgebouw Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/167.mp3"
   },
   {
     "id": "168",
@@ -1845,7 +1845,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Aldo Ciccolini (Klavier)",
-    "audio": ""
+    "audio": "audio/168.mp3"
   },
   {
     "id": "169",
@@ -1856,7 +1856,7 @@
     "conductor": "Antal Doráti (1979–1981)",
     "ensemble": "Concertgebouw Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/169.mp3"
   },
   {
     "id": "170",
@@ -1867,7 +1867,7 @@
     "conductor": "Herbert von Karajan (1965)",
     "ensemble": "Orchestra e Coro del Teatro alla Scala",
     "soloists": "Fiorenza Cossotto (Santuzza); Carlo Bergonzi",
-    "audio": ""
+    "audio": "audio/170.mp3"
   },
   {
     "id": "171",
@@ -1878,7 +1878,7 @@
     "conductor": "Herbert von Karajan (1965)",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/171.mp3"
   },
   {
     "id": "172",
@@ -1889,7 +1889,7 @@
     "conductor": "Herbert von Karajan (1965)",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "Fiorenza Cossotto (Santuzza)",
-    "audio": ""
+    "audio": "audio/172.mp3"
   },
   {
     "id": "173",
@@ -1900,7 +1900,7 @@
     "conductor": "John Rutter (1984)",
     "ensemble": "Cambridge Singers; City of London Sinfonia",
     "soloists": "Caroline Ashton (Sopran)",
-    "audio": ""
+    "audio": "audio/173.mp3"
   },
   {
     "id": "174",
@@ -1911,7 +1911,7 @@
     "conductor": "John Rutter (1984)",
     "ensemble": "Cambridge Singers; City of London Sinfonia",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/174.mp3"
   },
   {
     "id": "175",
@@ -1922,7 +1922,7 @@
     "conductor": "Valery Gergiev",
     "ensemble": "Kirov Orchestra and Chorus",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/175.mp3"
   },
   {
     "id": "176",
@@ -1933,7 +1933,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Reinbert de Leeuw (Klavier)",
-    "audio": ""
+    "audio": "audio/176.mp3"
   },
   {
     "id": "177",
@@ -1944,7 +1944,7 @@
     "conductor": "Herbert von Karajan (1965)",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "Carlo Bergonzi (Canio)",
-    "audio": ""
+    "audio": "audio/177.mp3"
   },
   {
     "id": "178",
@@ -1955,7 +1955,7 @@
     "conductor": "Antonio Pappano",
     "ensemble": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/178.mp3"
   },
   {
     "id": "179",
@@ -1966,7 +1966,7 @@
     "conductor": "Antal Doráti (1962)",
     "ensemble": "London Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/179.mp3"
   },
   {
     "id": "180",
@@ -1977,7 +1977,7 @@
     "conductor": "Antal Doráti (1962)",
     "ensemble": "London Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/180.mp3"
   },
   {
     "id": "181",
@@ -1988,7 +1988,7 @@
     "conductor": "Jiří Bělohlávek",
     "ensemble": "Czech Philharmonic",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/181.mp3"
   },
   {
     "id": "182",
@@ -1999,7 +1999,7 @@
     "conductor": "Carlo Maria Giulini",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Tito Gobbi (Falstaff)",
-    "audio": ""
+    "audio": "audio/182.mp3"
   },
   {
     "id": "183",
@@ -2010,7 +2010,7 @@
     "conductor": "Giuseppe Sinopoli",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Mirella Freni (Manon)",
-    "audio": ""
+    "audio": "audio/183.mp3"
   },
   {
     "id": "184",
@@ -2021,7 +2021,7 @@
     "conductor": "Fritz Reiner (Studio, 1957)",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/184.mp3"
   },
   {
     "id": "185",
@@ -2032,7 +2032,7 @@
     "conductor": "Evgeny Mravinsky",
     "ensemble": "Leningrad Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/185.mp3"
   },
   {
     "id": "186",
@@ -2043,7 +2043,7 @@
     "conductor": "Anne-Sophie Mutter / Lambert Orkis",
     "ensemble": "Klavier und Violine",
     "soloists": "Anne-Sophie Mutter (Violine)",
-    "audio": ""
+    "audio": "audio/186.mp3"
   },
   {
     "id": "187",
@@ -2054,7 +2054,7 @@
     "conductor": "Simon Rattle",
     "ensemble": "City of Birmingham Symphony Orchestra & Chorus",
     "soloists": "Solisten",
-    "audio": ""
+    "audio": "audio/187.mp3"
   },
   {
     "id": "188",
@@ -2065,7 +2065,7 @@
     "conductor": "Kurt Masur",
     "ensemble": "Gewandhausorchester Leipzig",
     "soloists": "Jessye Norman (Sopran)",
-    "audio": ""
+    "audio": "audio/188.mp3"
   },
   {
     "id": "189",
@@ -2076,7 +2076,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Cleveland Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/189.mp3"
   },
   {
     "id": "190",
@@ -2087,7 +2087,7 @@
     "conductor": "Antonino Votto (Studio, 1956)",
     "ensemble": "Orchestra e Coro del Teatro alla Scala di Milano",
     "soloists": "Giuseppe Di Stefano (Rodolfo); Maria Callas (Mimì)",
-    "audio": ""
+    "audio": "audio/190.mp3"
   },
   {
     "id": "191",
@@ -2098,7 +2098,7 @@
     "conductor": "Tullio Serafin (Studio, 1959)",
     "ensemble": "Orchestra e Coro dell’Accademia Nazionale di Santa Cecilia, Roma",
     "soloists": "Renata Tebaldi (Mimì); Carlo Bergonzi (Rodolfo)",
-    "audio": ""
+    "audio": "audio/191.mp3"
   },
   {
     "id": "192",
@@ -2109,7 +2109,7 @@
     "conductor": "Dietrich Fischer-Dieskau / Gerald Moore",
     "ensemble": "Klavierlied",
     "soloists": "Dietrich Fischer-Dieskau (Bariton)",
-    "audio": ""
+    "audio": "audio/192.mp3"
   },
   {
     "id": "193",
@@ -2120,7 +2120,7 @@
     "conductor": "Fritz Reiner",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/193.mp3"
   },
   {
     "id": "194",
@@ -2131,7 +2131,7 @@
     "conductor": "Neeme Järvi",
     "ensemble": "Detroit Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/194.mp3"
   },
   {
     "id": "195",
@@ -2142,7 +2142,7 @@
     "conductor": "Charles Dutoit",
     "ensemble": "Orchestre de la Suisse Romande",
     "soloists": "Jean-Yves Thibaudet (Klavier)",
-    "audio": ""
+    "audio": "audio/195.mp3"
   },
   {
     "id": "196",
@@ -2153,7 +2153,7 @@
     "conductor": "Osmo Vänskä",
     "ensemble": "Lahti Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/196.mp3"
   },
   {
     "id": "197",
@@ -2164,7 +2164,7 @@
     "conductor": "John Barbirolli",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/197.mp3"
   },
   {
     "id": "198",
@@ -2175,7 +2175,7 @@
     "conductor": "Herbert von Karajan",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/198.mp3"
   },
   {
     "id": "199",
@@ -2186,7 +2186,7 @@
     "conductor": "Victor de Sabata (1953)",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "Maria Callas (Tosca)",
-    "audio": ""
+    "audio": "audio/199.mp3"
   },
   {
     "id": "200",
@@ -2197,7 +2197,7 @@
     "conductor": "Victor de Sabata (1953)",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "Giuseppe di Stefano (Cavaradossi)",
-    "audio": ""
+    "audio": "audio/200.mp3"
   },
   {
     "id": "201",
@@ -2208,7 +2208,7 @@
     "conductor": "Charles Mackerras",
     "ensemble": "Czech Philharmonic",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/201.mp3"
   },
   {
     "id": "202",
@@ -2219,7 +2219,7 @@
     "conductor": "Sviatoslav Richter / Stanisław Wisłocki",
     "ensemble": "Warsaw Philharmonic Orchestra",
     "soloists": "Sviatoslav Richter (Klavier)",
-    "audio": ""
+    "audio": "audio/202.mp3"
   },
   {
     "id": "203",
@@ -2230,7 +2230,7 @@
     "conductor": "John Barbirolli",
     "ensemble": "New Philharmonia Orchestra",
     "soloists": "Janet Baker (Mezzosopran)",
-    "audio": ""
+    "audio": "audio/203.mp3"
   },
   {
     "id": "204",
@@ -2241,7 +2241,7 @@
     "conductor": "Claudio Abbado",
     "ensemble": "Lucerne Festival Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/204.mp3"
   },
   {
     "id": "205",
@@ -2252,7 +2252,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Orchestra of the Royal Opera House Covent Garden",
     "soloists": "Solisten der Oper",
-    "audio": ""
+    "audio": "audio/205.mp3"
   },
   {
     "id": "206",
@@ -2263,7 +2263,7 @@
     "conductor": "Riccardo Chailly",
     "ensemble": "Royal Concertgebouw Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/206.mp3"
   },
   {
     "id": "207",
@@ -2274,7 +2274,7 @@
     "conductor": "John Barbirolli (Studio, 1966)",
     "ensemble": "Orchestra e Coro del Teatro dell’Opera di Roma",
     "soloists": "Renata Scotto (Cio-Cio-San); Carlo Bergonzi (Pinkerton); Rolando Panerai (Sharpless)",
-    "audio": ""
+    "audio": "audio/207.mp3"
   },
   {
     "id": "208",
@@ -2285,7 +2285,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "Christa Ludwig (Mezzosopran)",
-    "audio": ""
+    "audio": "audio/208.mp3"
   },
   {
     "id": "209",
@@ -2296,7 +2296,7 @@
     "conductor": "Klaus Tennstedt (live, 1986)",
     "ensemble": "London Philharmonic Orchestra",
     "soloists": "Jessye Norman (Salome; konzertante Schlussszene)",
-    "audio": ""
+    "audio": "audio/209.mp3"
   },
   {
     "id": "210",
@@ -2307,7 +2307,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Walter Gieseking (Klavier)",
-    "audio": ""
+    "audio": "audio/210.mp3"
   },
   {
     "id": "211",
@@ -2318,7 +2318,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Cleveland Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/211.mp3"
   },
   {
     "id": "212",
@@ -2329,7 +2329,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Arturo Benedetti Michelangeli (Klavier)",
-    "audio": ""
+    "audio": "audio/212.mp3"
   },
   {
     "id": "213",
@@ -2340,7 +2340,7 @@
     "conductor": "Sakari Oramo",
     "ensemble": "BBC Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/213.mp3"
   },
   {
     "id": "214",
@@ -2351,7 +2351,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Alicia de Larrocha (Klavier)",
-    "audio": ""
+    "audio": "audio/214.mp3"
   },
   {
     "id": "215",
@@ -2362,7 +2362,7 @@
     "conductor": "Thomas Beecham",
     "ensemble": "Royal Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/215.mp3"
   },
   {
     "id": "216",
@@ -2373,7 +2373,7 @@
     "conductor": "Thomas Beecham",
     "ensemble": "Royal Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/216.mp3"
   },
   {
     "id": "217",
@@ -2384,7 +2384,7 @@
     "conductor": "André Previn",
     "ensemble": "London Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/217.mp3"
   },
   {
     "id": "218",
@@ -2395,7 +2395,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/218.mp3"
   },
   {
     "id": "219",
@@ -2406,7 +2406,7 @@
     "conductor": "Michael Tilson Thomas",
     "ensemble": "San Francisco Symphony",
     "soloists": "Solo-Trompete",
-    "audio": ""
+    "audio": "audio/219.mp3"
   },
   {
     "id": "220",
@@ -2417,7 +2417,7 @@
     "conductor": "Martha Argerich / Riccardo Chailly",
     "ensemble": "Radio-Symphonie-Orchester Berlin",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/220.mp3"
   },
   {
     "id": "221",
@@ -2428,7 +2428,7 @@
     "conductor": "Georg Solti (Studio, 1967)",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "Birgit Nilsson (Elektra); Regina Resnik (Klytämnestra); Marie Collier (Chrysothemis)",
-    "audio": ""
+    "audio": "audio/221.mp3"
   },
   {
     "id": "222",
@@ -2439,7 +2439,7 @@
     "conductor": "Franco Capuana",
     "ensemble": "Orchester der Gesamtaufnahme",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/222.mp3"
   },
   {
     "id": "223",
@@ -2450,7 +2450,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/223.mp3"
   },
   {
     "id": "224",
@@ -2461,7 +2461,7 @@
     "conductor": "Herbert von Karajan (1956)",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Elisabeth Schwarzkopf; Christa Ludwig; Teresa Stich-Randall",
-    "audio": ""
+    "audio": "audio/224.mp3"
   },
   {
     "id": "225",
@@ -2472,7 +2472,7 @@
     "conductor": "",
     "ensemble": "",
     "soloists": "Alicia de Larrocha (Klavier)",
-    "audio": ""
+    "audio": "audio/225.mp3"
   },
   {
     "id": "226",
@@ -2483,7 +2483,7 @@
     "conductor": "Esa-Pekka Salonen",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Solisten & Chor",
-    "audio": ""
+    "audio": "audio/226.mp3"
   },
   {
     "id": "227",
@@ -2494,7 +2494,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Cleveland Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/227.mp3"
   },
   {
     "id": "228",
@@ -2505,7 +2505,7 @@
     "conductor": "István Kertész (Studio, November 1965)",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Christa Ludwig (Judith); Walter Berry (Blaubart)",
-    "audio": ""
+    "audio": "audio/228.mp3"
   },
   {
     "id": "229",
@@ -2516,7 +2516,7 @@
     "conductor": "Vokaleinspielung noch eindeutig bestimmen",
     "ensemble": "Begleitung noch offen",
     "soloists": "Sopranstimme nach Absicherung der Aufnahme",
-    "audio": ""
+    "audio": "audio/229.mp3"
   },
   {
     "id": "230",
@@ -2527,7 +2527,7 @@
     "conductor": "Charles Dutoit",
     "ensemble": "Orchestre symphonique de Montréal; Chor",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/230.mp3"
   },
   {
     "id": "231",
@@ -2538,7 +2538,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Ensemble intercontemporain",
     "soloists": "Christine Schäfer (Sprechstimme)",
-    "audio": ""
+    "audio": "audio/231.mp3"
   },
   {
     "id": "232",
@@ -2549,7 +2549,7 @@
     "conductor": "Thomas Beecham",
     "ensemble": "Royal Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/232.mp3"
   },
   {
     "id": "233",
@@ -2560,7 +2560,7 @@
     "conductor": "Michael Gielen",
     "ensemble": "Radio-Sinfonieorchester Frankfurt",
     "soloists": "Opernsolisten",
-    "audio": ""
+    "audio": "audio/233.mp3"
   },
   {
     "id": "234",
@@ -2571,7 +2571,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Cleveland Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/234.mp3"
   },
   {
     "id": "235",
@@ -2582,7 +2582,7 @@
     "conductor": "Rafael Frühbeck de Burgos",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/235.mp3"
   },
   {
     "id": "236",
@@ -2593,7 +2593,7 @@
     "conductor": "Rafael Frühbeck de Burgos",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Alicia de Larrocha (Klavier)",
-    "audio": ""
+    "audio": "audio/236.mp3"
   },
   {
     "id": "237",
@@ -2604,7 +2604,7 @@
     "conductor": "Karl Böhm",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/237.mp3"
   },
   {
     "id": "238",
@@ -2615,7 +2615,7 @@
     "conductor": "Sakari Oramo (2021)",
     "ensemble": "BBC Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/238.mp3"
   },
   {
     "id": "239",
@@ -2626,7 +2626,7 @@
     "conductor": "Daniel Harding",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Nicola Benedetti (Violine)",
-    "audio": ""
+    "audio": "audio/239.mp3"
   },
   {
     "id": "240",
@@ -2637,7 +2637,7 @@
     "conductor": "Riccardo Chailly",
     "ensemble": "Royal Concertgebouw Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/240.mp3"
   },
   {
     "id": "241",
@@ -2648,7 +2648,7 @@
     "conductor": "Leopold Stokowski (Studio, 1956)",
     "ensemble": "Los Angeles Philharmonic Orchestra; Roger Wagner Chorale (Werkgesamtaufnahme)",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/241.mp3"
   },
   {
     "id": "242",
@@ -2659,7 +2659,7 @@
     "conductor": "Leopold Stokowski (Studio, 1956)",
     "ensemble": "Los Angeles Philharmonic Orchestra; Roger Wagner Chorale (Werkgesamtaufnahme)",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/242.mp3"
   },
   {
     "id": "243",
@@ -2670,7 +2670,7 @@
     "conductor": "Lorin Maazel",
     "ensemble": "London Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/243.mp3"
   },
   {
     "id": "244",
@@ -2681,7 +2681,7 @@
     "conductor": "Gianandrea Gavazzeni",
     "ensemble": "Orchestra del Teatro alla Scala",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/244.mp3"
   },
   {
     "id": "245",
@@ -2692,7 +2692,7 @@
     "conductor": "Bruno Bartoletti",
     "ensemble": "Orchester der Opernaufnahme",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/245.mp3"
   },
   {
     "id": "246",
@@ -2703,7 +2703,7 @@
     "conductor": "Lorin Maazel",
     "ensemble": "National Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/246.mp3"
   },
   {
     "id": "247",
@@ -2714,7 +2714,7 @@
     "conductor": "Yan Pascal Tortelier",
     "ensemble": "BBC Philharmonic",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/247.mp3"
   },
   {
     "id": "248",
@@ -2725,7 +2725,7 @@
     "conductor": "Lothar Zagrosek",
     "ensemble": "Deutsches Symphonie-Orchester Berlin",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/248.mp3"
   },
   {
     "id": "249",
@@ -2736,7 +2736,7 @@
     "conductor": "Karl Böhm",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/249.mp3"
   },
   {
     "id": "250",
@@ -2747,7 +2747,7 @@
     "conductor": "Rafael Frühbeck de Burgos",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/250.mp3"
   },
   {
     "id": "251",
@@ -2758,7 +2758,7 @@
     "conductor": "Tabea Zimmermann / Hartmut Höll",
     "ensemble": "Viola-Klavier-Duo",
     "soloists": "Tabea Zimmermann (Viola)",
-    "audio": ""
+    "audio": "audio/251.mp3"
   },
   {
     "id": "252",
@@ -2769,7 +2769,7 @@
     "conductor": "Claudio Abbado",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/252.mp3"
   },
   {
     "id": "253",
@@ -2780,7 +2780,7 @@
     "conductor": "James Conlon (1996)",
     "ensemble": "Gürzenich-Orchester Köln",
     "soloists": "David Kuebler (Der Zwerg); Soile Isokoski (Donna Clara)",
-    "audio": ""
+    "audio": "audio/253.mp3"
   },
   {
     "id": "254",
@@ -2791,7 +2791,7 @@
     "conductor": "Riccardo Chailly",
     "ensemble": "Royal Concertgebouw Orchestra",
     "soloists": "Vokalsolisten",
-    "audio": ""
+    "audio": "audio/254.mp3"
   },
   {
     "id": "255",
@@ -2802,7 +2802,7 @@
     "conductor": "Fritz Reiner (Studio, 24.10.1959)",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/255.mp3"
   },
   {
     "id": "256",
@@ -2813,7 +2813,7 @@
     "conductor": "Claudio Abbado",
     "ensemble": "Wiener Philharmoniker",
     "soloists": "Franz Grundheber (Wozzeck)",
-    "audio": ""
+    "audio": "audio/256.mp3"
   },
   {
     "id": "257",
@@ -2824,7 +2824,7 @@
     "conductor": "Zubin Mehta (1972)",
     "ensemble": "London Philharmonic Orchestra",
     "soloists": "Luciano Pavarotti (Calaf)",
-    "audio": ""
+    "audio": "audio/257.mp3"
   },
   {
     "id": "258",
@@ -2835,7 +2835,7 @@
     "conductor": "Zubin Mehta (1972)",
     "ensemble": "London Philharmonic Orchestra",
     "soloists": "Joan Sutherland (Turandot)",
-    "audio": ""
+    "audio": "audio/258.mp3"
   },
   {
     "id": "259",
@@ -2846,7 +2846,7 @@
     "conductor": "Simon Rattle",
     "ensemble": "City of Birmingham Symphony Orchestra & Chorus",
     "soloists": "Solisten",
-    "audio": ""
+    "audio": "audio/259.mp3"
   },
   {
     "id": "260",
@@ -2857,7 +2857,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/260.mp3"
   },
   {
     "id": "261",
@@ -2868,7 +2868,7 @@
     "conductor": "Kurt Weill / historische Aufnahme prüfen",
     "ensemble": "Ensemble historischer Weill-Aufnahmen",
     "soloists": "Moritat-Sänger anhand der Edition bestimmen",
-    "audio": ""
+    "audio": "audio/261.mp3"
   },
   {
     "id": "262",
@@ -2879,7 +2879,7 @@
     "conductor": "Lotte Lenya / Ensembleleitung prüfen",
     "ensemble": "Orchester der Weill-Aufnahme",
     "soloists": "Lotte Lenya (Gesang)",
-    "audio": ""
+    "audio": "audio/262.mp3"
   },
   {
     "id": "263",
@@ -2890,7 +2890,7 @@
     "conductor": "John Jeter",
     "ensemble": "Fort Smith Symphony",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/263.mp3"
   },
   {
     "id": "264",
@@ -2901,7 +2901,7 @@
     "conductor": "Martha Argerich / Claudio Abbado",
     "ensemble": "Berliner Philharmoniker",
     "soloists": "Martha Argerich (Klavier)",
-    "audio": ""
+    "audio": "audio/264.mp3"
   },
   {
     "id": "265",
@@ -2912,7 +2912,7 @@
     "conductor": "JACK Quartet",
     "ensemble": "Streichquartett",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/265.mp3"
   },
   {
     "id": "266",
@@ -2923,7 +2923,7 @@
     "conductor": "Yannick Nézet-Séguin",
     "ensemble": "Philadelphia Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/266.mp3"
   },
   {
     "id": "267",
@@ -2934,7 +2934,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "BBC Symphony Orchestra; Chor",
     "soloists": "Günter Reich (Moses); Louis Devos (Aron)",
-    "audio": ""
+    "audio": "audio/267.mp3"
   },
   {
     "id": "268",
@@ -2945,7 +2945,7 @@
     "conductor": "Claudio Abbado",
     "ensemble": "London Symphony Orchestra",
     "soloists": "Gidon Kremer (Violine)",
-    "audio": ""
+    "audio": "audio/268.mp3"
   },
   {
     "id": "269",
@@ -2956,7 +2956,7 @@
     "conductor": "Valery Gergiev",
     "ensemble": "London Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/269.mp3"
   },
   {
     "id": "270",
@@ -2967,7 +2967,7 @@
     "conductor": "Fritz Reiner",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/270.mp3"
   },
   {
     "id": "271",
@@ -2978,7 +2978,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "New York Philharmonic",
     "soloists": "Leonard Bernstein (Erzähler)",
-    "audio": ""
+    "audio": "audio/271.mp3"
   },
   {
     "id": "272",
@@ -2989,7 +2989,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "New York Philharmonic",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/272.mp3"
   },
   {
     "id": "273",
@@ -3000,7 +3000,7 @@
     "conductor": "Pierre Boulez",
     "ensemble": "Orchestre de l'Opéra de Paris",
     "soloists": "Teresa Stratas (Lulu)",
-    "audio": ""
+    "audio": "audio/273.mp3"
   },
   {
     "id": "274",
@@ -3011,7 +3011,7 @@
     "conductor": "Evgeny Mravinsky",
     "ensemble": "Leningrad Philharmonic Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/274.mp3"
   },
   {
     "id": "275",
@@ -3022,7 +3022,7 @@
     "conductor": "Eugen Jochum",
     "ensemble": "Chor und Orchester der Deutschen Oper Berlin",
     "soloists": "Gundula Janowitz; Dietrich Fischer-Dieskau (andere Sätze)",
-    "audio": ""
+    "audio": "audio/275.mp3"
   },
   {
     "id": "276",
@@ -3033,7 +3033,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/276.mp3"
   },
   {
     "id": "277",
@@ -3044,7 +3044,7 @@
     "conductor": "Tashi / Peter Serkin",
     "ensemble": "Kammerensemble",
     "soloists": "Peter Serkin (Klavier); Fred Sherry (Violoncello)",
-    "audio": ""
+    "audio": "audio/277.mp3"
   },
   {
     "id": "278",
@@ -3055,7 +3055,7 @@
     "conductor": "Wolfgang Sawallisch",
     "ensemble": "Philharmonia Orchestra",
     "soloists": "Elisabeth Schwarzkopf (Gräfin)",
-    "audio": ""
+    "audio": "audio/278.mp3"
   },
   {
     "id": "279",
@@ -3066,7 +3066,7 @@
     "conductor": "Fritz Reiner",
     "ensemble": "Chicago Symphony Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/279.mp3"
   },
   {
     "id": "280",
@@ -3077,7 +3077,7 @@
     "conductor": "Benjamin Britten",
     "ensemble": "Orchestra of the Royal Opera House",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/280.mp3"
   },
   {
     "id": "281",
@@ -3088,7 +3088,7 @@
     "conductor": "John Mauceri",
     "ensemble": "Scottish Opera Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/281.mp3"
   },
   {
     "id": "282",
@@ -3099,7 +3099,7 @@
     "conductor": "Michel Corboz",
     "ensemble": "Ensemble Vocal de Lausanne; Orchester",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/282.mp3"
   },
   {
     "id": "283",
@@ -3110,7 +3110,7 @@
     "conductor": "Kurt Masur (Studio, 1982)",
     "ensemble": "Gewandhausorchester Leipzig",
     "soloists": "Jessye Norman (Sopran)",
-    "audio": ""
+    "audio": "audio/283.mp3"
   },
   {
     "id": "284",
@@ -3121,7 +3121,7 @@
     "conductor": "Kurt Masur (Studio, 1982)",
     "ensemble": "Gewandhausorchester Leipzig",
     "soloists": "Jessye Norman (Sopran)",
-    "audio": ""
+    "audio": "audio/284.mp3"
   },
   {
     "id": "285",
@@ -3132,7 +3132,7 @@
     "conductor": "Agnieszka Duczmal",
     "ensemble": "Amadeus Chamber Orchestra",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/285.mp3"
   },
   {
     "id": "286",
@@ -3143,7 +3143,7 @@
     "conductor": "Georges Prêtre",
     "ensemble": "Orchestre National de la RTF; Chor",
     "soloists": "Sopranistin",
-    "audio": ""
+    "audio": "audio/286.mp3"
   },
   {
     "id": "287",
@@ -3154,7 +3154,7 @@
     "conductor": "Zoltán Peskó (2007)",
     "ensemble": "Orquestra Simfònica del Gran Teatre del Liceu",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/287.mp3"
   },
   {
     "id": "288",
@@ -3165,7 +3165,7 @@
     "conductor": "Benjamin Britten (1954)",
     "ensemble": "English Opera Group Ensemble",
     "soloists": "Peter Pears (Quint); Jennifer Vyvyan",
-    "audio": ""
+    "audio": "audio/288.mp3"
   },
   {
     "id": "289",
@@ -3176,7 +3176,7 @@
     "conductor": "Benjamin Britten (1954)",
     "ensemble": "English Opera Group Ensemble",
     "soloists": "Knabensolist (Miles); Peter Pears (Quint)",
-    "audio": ""
+    "audio": "audio/289.mp3"
   },
   {
     "id": "290",
@@ -3187,7 +3187,7 @@
     "conductor": "Leonard Bernstein (1989)",
     "ensemble": "London Symphony Orchestra; Chor",
     "soloists": "June Anderson; Jerry Hadley (andere Nummern)",
-    "audio": ""
+    "audio": "audio/290.mp3"
   },
   {
     "id": "291",
@@ -3198,7 +3198,7 @@
     "conductor": "Leonard Bernstein (1984)",
     "ensemble": "Studioorchester und Ensemble der Aufnahme",
     "soloists": "José Carreras (Tony)",
-    "audio": ""
+    "audio": "audio/291.mp3"
   },
   {
     "id": "292",
@@ -3209,7 +3209,7 @@
     "conductor": "Kent Nagano",
     "ensemble": "Orchestre de l'Opéra de Lyon; Chor",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/292.mp3"
   },
   {
     "id": "293",
@@ -3220,7 +3220,7 @@
     "conductor": "Georges Prêtre",
     "ensemble": "Orchestre National de l'ORTF; Chor",
     "soloists": "Sopranistin",
-    "audio": ""
+    "audio": "audio/293.mp3"
   },
   {
     "id": "294",
@@ -3231,7 +3231,7 @@
     "conductor": "Benjamin Britten (1963)",
     "ensemble": "London Symphony Orchestra; Chor",
     "soloists": "Peter Pears; Dietrich Fischer-Dieskau; Galina Vishnevskaya",
-    "audio": ""
+    "audio": "audio/294.mp3"
   },
   {
     "id": "295",
@@ -3242,7 +3242,7 @@
     "conductor": "Leonard Bernstein",
     "ensemble": "New York Philharmonic; Chor",
     "soloists": "Knabensopran",
-    "audio": ""
+    "audio": "audio/295.mp3"
   },
   {
     "id": "296",
@@ -3253,7 +3253,7 @@
     "conductor": "Kent Nagano (2018)",
     "ensemble": "Wiener Philharmoniker; Wiener Staatsopernchor",
     "soloists": "Sean Panikkar (Dionysus); Russell Braun (Pentheus)",
-    "audio": ""
+    "audio": "audio/296.mp3"
   },
   {
     "id": "297",
@@ -3264,7 +3264,7 @@
     "conductor": "Osmo Vänskä (BIS, 1992)",
     "ensemble": "Lahti Symphony Orchestra (Sinfonia Lahti)",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/297.mp3"
   },
   {
     "id": "298",
@@ -3275,7 +3275,7 @@
     "conductor": "Dennis Russell Davies",
     "ensemble": "Staatsorchester Stuttgart",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/298.mp3"
   },
   {
     "id": "299",
@@ -3286,7 +3286,7 @@
     "conductor": "Vladimir Spivakov / Sergei Bezrodny",
     "ensemble": "Violine-Klavier-Duo",
     "soloists": "Vladimir Spivakov (Violine); Sergei Bezrodny (Klavier)",
-    "audio": ""
+    "audio": "audio/299.mp3"
   },
   {
     "id": "300",
@@ -3297,7 +3297,7 @@
     "conductor": "Charles Dutoit",
     "ensemble": "Boston Symphony Orchestra",
     "soloists": "Gidon Kremer (Violine)",
-    "audio": ""
+    "audio": "audio/300.mp3"
   },
   {
     "id": "301",
@@ -3308,7 +3308,7 @@
     "conductor": "Michael Riesman",
     "ensemble": "Philip Glass Ensemble",
     "soloists": "Klavier-Solisten",
-    "audio": ""
+    "audio": "audio/301.mp3"
   },
   {
     "id": "302",
@@ -3319,7 +3319,7 @@
     "conductor": "Edo de Waart",
     "ensemble": "San Francisco Symphony",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/302.mp3"
   },
   {
     "id": "303",
@@ -3330,6 +3330,6 @@
     "conductor": "Brad Wells",
     "ensemble": "Roomful of Teeth",
     "soloists": "",
-    "audio": ""
+    "audio": "audio/303.mp3"
   }
 ]
